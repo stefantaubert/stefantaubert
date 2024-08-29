@@ -6,3 +6,5 @@
 - 🖖 My y.at is: [🐍💻🔬🤓](https://y.at/%F0%9F%90%8D%F0%9F%92%BB%F0%9F%94%AC%F0%9F%A4%93)
 - 💬 Web apps: [en-tts](https://huggingface.co/spaces/stefantaubert/en-tts), [zho-tts](https://huggingface.co/spaces/stefantaubert/zho-tts), [pinyin-to-ipa](https://huggingface.co/spaces/stefantaubert/pinyin-to-ipa)
 
+![](https://github-readme-stats.vercel.app/api?username=stefantaubert&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefantaubert&layout=compact&hide_title=true&hide_border=true&theme=transparent)
