@@ -1,6 +1,7 @@
 ### Hi 👋
 
 - 🎓 I’m a PhD candidate in neural speech synthesis.
+  - 🎧 Listen to some audio examples [here](https://stefantaubert.github.io/phd/)
   - 🎧 Learn more about the DFG CRC project I've been working on [here](https://stefantaubert.github.io/CRC-1410-D03/)
 - 📄 Download my [CV](https://stefantaubert.com/wp-content/uploads/2025/08/cv.pdf).
 - 📫 How to reach me: github@stefantaubert.com.
